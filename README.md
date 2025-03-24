@@ -1,7 +1,14 @@
 # Blood-Bank-Donor-Management
 Blood Bank and Donor Management System is a web-based application. The persons who like to donate blood register in the Blood Bank application.  The persons in need of blood search for the persons having the same blood group and within the city.  If he found a donor in his city then he gets the total details of the donor, if he doesn’t find any donor then he is given the contact numbers and addresses of the Life-Saving Contact Persons for major cities.
 Project Modules
-In this projects, we use PHP and Mysql and it contains two modules i.e Admin and Donor.
+In this projects,
+we use PHP and Mysql and it contains two modules i.e Admin and Donor.
+Project Name	Blood Bank & Donor Management System
+Language Used	PHP5.6, PHP7.x, PHP8.x
+Database	MySQL 5.x, MySQL8.x
+User Interface Design	HTML, AJAX,JQUERY,JAVASCRIPT
+Web Browser	Mozilla, Google Chrome, IE8, OPERA
+Software	XAMPP / Wamp / Mamp/ Lamp (anyone)
 
 Admin Module
 
